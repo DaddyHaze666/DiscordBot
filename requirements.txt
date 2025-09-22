@@ -1,4 +1,3 @@
-discord-py
+discord.py
+python-steam-api
 python-dotenv
-asyncio
-steam
